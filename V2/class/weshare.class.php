@@ -6,7 +6,7 @@ class WeShare
 {
 
     private $url = 'https://xyzcdn.eu.org';
-    private $version = 'v2'; // if this user pro then use v2
+    private $version = 'v2'; // This class only works with the Premium Account API
     public $authToken;
 
     public function __construct($authToken)
