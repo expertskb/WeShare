@@ -6,7 +6,7 @@ class WeShare
 {
 
     private $url = 'https://xyzcdn.eu.org';
-    private $version = 'v1'; // this work for only free user
+    private $version = 'v1'; // This class only works with the Free Account API
     public $authToken;
 
     public function __construct($authToken)
