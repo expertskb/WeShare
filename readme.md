@@ -12,16 +12,11 @@ If you have a premium account, use it. Otherwise you will not be able to access 
 
 # Usage
 
-[code]
-<?php
-
 include('class/weshare.class.php');
 
 use Shakib\WeShare;
 
 $class = new WeShare(""); // Enter Your Api Token
-
-[/code]
 
 # Changelog
 
