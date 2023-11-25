@@ -4,11 +4,11 @@ WeShare is a file sharing platform. I made it Api to class if you use my class t
 
 # V1
 
-Use this if you don't have a premium account. You can't access for premium any tools
+If you don't have a premium account, use it. Otherwise you cannot access v2
 
 # V2
 
-If you have a premium account, use it. When you use v2 you will see all premium tools unlocked
+If you have a premium account, use it. Otherwise you will not be able to access v1 while you will see all premium tools unlocked when you use v2
 
 # Changelog
 
