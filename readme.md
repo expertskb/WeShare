@@ -1,6 +1,6 @@
 # WeShare
 
-WeShare is a file sharing platform. I made it Api to class if you use my class then you can easily working and no error or bug faces
+WeShare is a file sharing platform. We made it PHP class, if you use our class then you can easily working and no error or bug faces
 
 # V1
 
