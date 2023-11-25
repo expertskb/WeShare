@@ -18,6 +18,12 @@ use Shakib\WeShare;
 
 $class = new WeShare(""); // Enter Your Api Token
 
+IF YOU WANT SEE FILE INFO THEN USE 
+
+var_dump($class->FileInfo("Enter Your File ID")); // Showing file information if the file entered is yours and available
+
+Or for other needs you can check V1 or V2 folder in this type file like fileinfo.php, fileupdate.php and filedelete.php etc.
+
 # Changelog
 
 v0.1 
