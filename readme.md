@@ -10,6 +10,19 @@ If you don't have a premium account, use it. Otherwise you cannot access v2
 
 If you have a premium account, use it. Otherwise you will not be able to access v1 while you will see all premium tools unlocked when you use v2
 
+# Usage
+
+[code]
+<?php
+
+include('class/weshare.class.php');
+
+use Shakib\WeShare;
+
+$class = new WeShare(""); // Enter Your Api Token
+
+[/code]
+
 # Changelog
 
 v0.1 
