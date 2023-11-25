@@ -1,1 +1,1 @@
-This All file only work for premimum user . if you don't have premimum account then you can use V1
+All these files work only for premium users. If you don't have a premium account you can use V1
