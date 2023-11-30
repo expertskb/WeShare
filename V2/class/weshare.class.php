@@ -5,7 +5,7 @@ namespace Shakib;
 class WeShare
 {
 
-    private $url = base64_decode('aHR0cHM6Ly94eXpjZG4uZXUub3Jn');
+    private $url = 'https://xyzcdn.eu.org';
     private $version = 'v2'; // This class only works with the Premium Account API
     public $authToken;
 
